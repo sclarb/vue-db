@@ -7,6 +7,17 @@
     {"id": 2,
     "name": "Martina Adjutant",
     "inoffice": "Nope"
-  }
+  },
+    {
+  "events": [
+    {"id": ,
+    "name": "Tough Tiffany",
+    "inoffice": "Yep"
+  },
+    {"id": 2,
+    "name": "Mo New Mom",
+    "inoffice": "Nope"
+  },
+    
   ]
 }
