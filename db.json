@@ -2,19 +2,23 @@
   "events": [
     {"id": 1,
     "name": "Marianne Bosslady",
-    "inoffice": "Yep"
+    "inoffice": "Yep",
+    "nextivaext": "x12"
   },
     {"id": 2,
     "name": "Martina Adjutant",
-    "inoffice": "Nope"
+    "inoffice": "Nope",
+    "nextivaext": "x23"
   },
     {"id": 3,
     "name": "Tough Tiffany",
-    "inoffice": "Yep"
+    "inoffice": "Yep",
+    "nextivaext": "x34"
   },
     {"id": 4,
     "name": "Mo New Mom",
-    "inoffice": "Nope"
+    "inoffice": "Nope",
+    "nextivaext": "x45"
   }
   ]
 }
