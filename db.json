@@ -12,23 +12,23 @@
     },
     {
       "id": 456,
-      "category": "food",
-      "title": "Community Gardening",
-      "description": "Join us as we tend to the community edible plants.",
-      "location": "Flora City",
-      "date": "March 14, 2022",
+      "category": "coding",
+      "title": "Medical Coding",
+      "description": "Bundling Medical Codes with appropriate documentation",
+      "location": "GoToMeeting #3215647",
+      "date": "March 14, 2023",
       "time": "10:00",
-      "organizer": "Fern Pollin"
+      "organizer": "Nicole Harrison"
     },
     {
       "id": 789,
-      "category": "sustainability",
-      "title": "Beach Cleanup",
-      "description": "Help pick up trash along the shore.",
-      "location": "Playa Del Carmen",
+      "category": "office management",
+      "title": "Staff Management",
+      "description": "How to recruit, train, and retain front office staff.",
+      "location": "GoToMeeting #3215647",
       "date": "July 22, 2022",
       "time": "11:00",
-      "organizer": "Carey Wales"
+      "organizer": "Marianne DeSciose"
     }
   ]
 }
