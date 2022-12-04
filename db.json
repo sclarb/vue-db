@@ -1,24 +1,32 @@
-{
-  "events": [
-    {"id": 1,
-    "title": "Revenue Cycle Management",
-    "inoffice": "Yep",
-    "nextivaext": "x12"
+[
+  {
+    "id": 123,
+    "category": "medical coding",
+    "title": "Applying bundled codes",
+    "description": "How to apply bundled codes accompanied by necessary documentation",
+    "location": "GoToMeeting ID#4598231",
+    "date": "January 28, 2023",
+    "time": "12:00",
+    "organizer": "Mark Painter"
   },
-    {"id": 2,
-    "name": "Martina Adjutant",
-    "inoffice": "Nope",
-    "nextivaext": "x23"
+  {
+    "id": 456,
+    "category": "office management",
+    "title": "The Basics of Office Management",
+    "description": "Join us as we discuss how to recruit, train, and retain front office staff",
+    "location": "GoToMeeting ID#7862431",
+    "date": "March 14, 2023",
+    "time": "10:00",
+    "organizer": "Marianne Desciose"
   },
-    {"id": 3,
-    "name": "Tough Tiffany",
-    "inoffice": "Yep",
-    "nextivaext": "x34"
-  },
-    {"id": 4,
-    "name": "Mo New Mom",
-    "inoffice": "Nope",
-    "nextivaext": "x45"
+  {
+    "id": 789,
+    "category": "Revenue Cycle Management (RCM)",
+    "title": "RCM",
+    "description": "The basics of RCM: Patient Collections",
+    "location": "GoToMeeting ID#4598231",
+    "date": "July 22, 2023",
+    "time": "11:00",
+    "organizer": "Monique Risley"
   }
-  ]
-}
+]
